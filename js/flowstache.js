@@ -11,7 +11,7 @@
 	
 	// Plugin data
 	var data = {
-		// userId: '38598442', // if feed from user
+		// userId: '[USER ID]', // if feed from user
 		accessToken: '[ACCESS TOKEN]',
 		tagName: '[TAG]', // if feed from tag
 		limit: 3 // number of images to be displayed
