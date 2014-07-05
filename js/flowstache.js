@@ -13,11 +13,11 @@
 	var data = {
 		get: 'tag', // choose between 'user' and 'tag'
 		userId: [USER ID], // if feed from user
-		accessToken: '[ACCESs TOKEN]', // your access token
+		accessToken: '[ACCESS TOKEN]', // your access token
 		tagName: 'surf', // if feed from tag
 		limit: 3 // number of images to be displayed
 	}
-
+ 
 	// JSONP request
 	function jsonp(url) {
 		var script, head;
