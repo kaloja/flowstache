@@ -11,10 +11,16 @@
 	
 	// Plugin data
 	var data = {
+<<<<<<< HEAD
 		get: 'tag', // choose between 'user' and 'tag'
 		userId: [USER ID], // if feed from user
 		accessToken: '[ACCESS TOKEN]', // your access token
 		tagName: 'surf', // if feed from tag
+=======
+		// userId: '[USER ID]', // if feed from user
+		accessToken: '[ACCESS TOKEN]',
+		tagName: '[TAG]', // if feed from tag
+>>>>>>> FETCH_HEAD
 		limit: 3 // number of images to be displayed
 	}
 
