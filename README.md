@@ -7,7 +7,7 @@ Flowstache is a lightweight Javascript plugin that helps you show your Instagram
 Demo
 ====
 
-Tutorial on http://haal.se/flowstache
+Tutorial on http://kaloja.se/flowstache
 
 
 License
