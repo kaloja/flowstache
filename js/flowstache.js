@@ -2,7 +2,7 @@
 	Flowstache v1.2
 	by Anton Furuholm, Mattias Haal & Filip Rundberg
 
-	Copyright 2014 Flowstache
+	Copyright 2015 Flowstache
 	Licensed under the MIT license
 	http://opensource.org/licenses/MIT
 */
@@ -14,7 +14,7 @@
 		get: 'tag', // choose between 'user' and 'tag'
 		userId: [USER ID], // if feed from user
 		accessToken: '[ACCESS TOKEN]', // your access token
-		tagName: 'surf', // if feed from tag
+		tagName: 'cats', // if feed from tag
 		limit: 3 // number of images to be displayed
 	}
  
