@@ -14,7 +14,7 @@
 		get: 'tag', // choose between 'user' and 'tag'
 		userId: [USER ID], // if feed from user
 		accessToken: '[ACCESS TOKEN]', // your access token
-		tagName: 'cats', // if feed from tag
+		tagName: 'surf', // if feed from tag
 		limit: 3 // number of images to be displayed
 	}
  
