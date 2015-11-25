@@ -1,11 +1,11 @@
-/*
-	Flowstache v1.2
-	by Anton Furuholm, Mattias Haal & Filip Rundberg
-
-	Copyright 2015 Flowstache
-	Licensed under the MIT license
-	http://opensource.org/licenses/MIT
-*/
+/**
+ * Flowstache v1.2
+ * by Anton Furuholm, Mattias Haal & Filip Rundberg
+ *
+ * Copyright 2015 Flowstache
+ * Licensed under the MIT license
+ * http://opensource.org/licenses/MIT
+ */
 
 (function(ctx) {
 	
