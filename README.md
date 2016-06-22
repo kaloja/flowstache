@@ -1,3 +1,5 @@
+Flowstache is depricated since June 1 2016, due to new terms of use from Instagram.
+
 Flowstache
 ==========
 
